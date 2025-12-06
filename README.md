@@ -3,10 +3,10 @@
 
 This project demonstrates a production-style setup of a two-tier web application using:
 
-  Frontend:** Nginx
-  Backend:** Python Flask (or Node.js)
-  Containerization:** Docker
-  CI/CD Pipeline:*Jenkins
+  Frontend: Nginx
+  Backend: Python Flask (or Node.js)
+  Containerization: Docker
+  CI/CD Pipeline: Jenkins
   Infrastructure: AWS (Planned)
 
 ## Project Status
