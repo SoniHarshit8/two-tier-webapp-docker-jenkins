@@ -44,4 +44,9 @@ two-tier-webapp/
 
 ## Purpose
 This project replicates a real industry scenario where cloud engineers deploy two-tier applications using containerization and CI/CD automation.
+## Current Status (Updated: Dec 6, 2025)
+- Project structure planned
+- Backend service development in progress
+- Dockerfile creation scheduled this week
+- Jenkins pipeline setup planned after containerization
 
